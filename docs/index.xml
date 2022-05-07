@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>Xiaoyu Zou</title>
     <link>https://XiaoyuZou0915.github.io/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on Xiaoyu Zou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 06 May 2022 16:59:44 -0400</lastBuildDate><atom:link href="https://XiaoyuZou0915.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Examplepost</title>
-      <link>https://XiaoyuZou0915.github.io/posts/examplepost/</link>
+      <title>About me</title>
+      <link>https://XiaoyuZou0915.github.io/intro/about_me/</link>
       <pubDate>Fri, 06 May 2022 16:59:44 -0400</pubDate>
       
+      <guid>https://XiaoyuZou0915.github.io/intro/about_me/</guid>
+      <description>Favorite movies: the Grand Budapest Hotel, Chungking Express， Confessions
+Favorite sports: Basketball, Soccer, Table Tennis
+Favorite bands/singers: Radiohead, X-Japan, Jay Chou</description>
+    </item>
+    
+    <item>
+      <title>Partial Index Tracking</title>
+      <link>https://XiaoyuZou0915.github.io/posts/project_2/</link>
+      <pubDate>Fri, 01 Apr 2022 16:30:44 -0400</pubDate>
+      
+      <guid>https://XiaoyuZou0915.github.io/posts/project_2/</guid>
+      <description>Cornell University | Ithaca, NY 2020.02 - 2020.05 •	Constructed portfolios that replicated the behavior of S&amp;amp;G500 within the Markowitz framework.
+•	Improved objective function with regularization terms to encourage sparsity and efficiently tracks an index.
+•	Enhancing the model by introducing transaction costs to select more liquid securities.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Competition (Kaggle)</title>
+      <link>https://XiaoyuZou0915.github.io/posts/project_1/</link>
+      <pubDate>Wed, 16 Dec 2020 21:59:44 -0400</pubDate>
+      
+      <guid>https://XiaoyuZou0915.github.io/posts/project_1/</guid>
+      <description>University of British Columbia | Vancouver, BC 2020.12 •	Cleaned, merged, and processed 100,000+ complex raw data sets, facilitating analysis and pattern recognition.
+•	Used Python to develop a linear autoregressive model to predict future Covid-19 statistics, ranked within the top 20% in the competition.
+•	Utilized cross-validation to tune hyperparameters and improve accuracy, decreased errors by 30%+.</description>
+    </item>
+    
+    <item>
+      <title>Firmware Engineer,co-op</title>
+      <link>https://XiaoyuZou0915.github.io/posts/examplepost/</link>
+      <pubDate>Sun, 01 Sep 2019 16:59:44 -0400</pubDate>
+      
       <guid>https://XiaoyuZou0915.github.io/posts/examplepost/</guid>
-      <description>Hello tiger! </description>
+      <description>FLIR Systems | Vancouver, BC 2019.09 - 2020.04 •	Coordinated end-to-end firmware testing on machine vision cameras and developed 10+ tailored C++ unit tests.
+•	Initiated XML parsers in Python and boosted the documentation efficiency by 80%.
+•	Identified, documented, reported, and managed defects and errors to accelerate product development.
+•	Partnered with a cross-functional development team, including software developers and product managers, to conceptualize inventive solutions to augment product quality.</description>
     </item>
     
   </channel>

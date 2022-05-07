@@ -2,23 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://XiaoyuZou0915.github.io/posts/examplepost/</loc>
+    <loc>https://XiaoyuZou0915.github.io/intro/about_me/</loc>
+    <lastmod>2022-05-06T16:59:44-04:00</lastmod>
+  </url><url>
+    <loc>https://XiaoyuZou0915.github.io/intro/</loc>
     <lastmod>2022-05-06T16:59:44-04:00</lastmod>
   </url><url>
     <loc>https://XiaoyuZou0915.github.io/</loc>
     <lastmod>2022-05-06T16:59:44-04:00</lastmod>
   </url><url>
+    <loc>https://XiaoyuZou0915.github.io/posts/project_2/</loc>
+    <lastmod>2022-04-01T16:30:44-04:00</lastmod>
+  </url><url>
     <loc>https://XiaoyuZou0915.github.io/posts/</loc>
-    <lastmod>2022-05-06T16:59:44-04:00</lastmod>
+    <lastmod>2022-04-01T16:30:44-04:00</lastmod>
   </url><url>
-    <loc>https://XiaoyuZou0915.github.io/tags/</loc>
-    <lastmod>2022-05-06T16:59:44-04:00</lastmod>
+    <loc>https://XiaoyuZou0915.github.io/posts/project_1/</loc>
+    <lastmod>2020-12-16T21:59:44-04:00</lastmod>
   </url><url>
-    <loc>https://XiaoyuZou0915.github.io/tags/untagged/</loc>
-    <lastmod>2022-05-06T16:59:44-04:00</lastmod>
+    <loc>https://XiaoyuZou0915.github.io/posts/examplepost/</loc>
+    <lastmod>2019-09-01T16:59:44-04:00</lastmod>
   </url><url>
-    <loc>https://XiaoyuZou0915.github.io/blog/</loc>
+    <loc>https://XiaoyuZou0915.github.io/intro/</loc>
+  </url><url>
+    <loc>https://XiaoyuZou0915.github.io/past-projects/</loc>
   </url><url>
     <loc>https://XiaoyuZou0915.github.io/series/</loc>
+  </url><url>
+    <loc>https://XiaoyuZou0915.github.io/tags/</loc>
   </url>
 </urlset>
